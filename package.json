@@ -1,25 +1,14 @@
 {
   "name": "starter-node-angular",
-  "version": "0.2.5",
-  "engines": {
-    "node": "4.4.7"
-  },
- "main": "server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "express" : "~4.5.1",
-	   "mongoose" : "~3.8.0",
-	   "body-parser" : "~1.4.2",
-	   "method-override" : "~2.0.2",
-     "angularjs":"~1.5.8"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  "mongoose" : "~3.8.0",
+  "body-parser" : "~1.4.2",
+  "method-override" : "~2.0.2"
+  }
 }
 
