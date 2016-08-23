@@ -69,7 +69,10 @@ a{
 .but:hover{
 	color:#e45454;
 	}
-
+.btn-phto{
+	background-color: #e45454;
+	color: white;
+}
 .pF{
 	
 	height: 500px;
